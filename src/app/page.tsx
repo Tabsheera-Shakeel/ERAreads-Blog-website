@@ -67,7 +67,7 @@ export default function Home() {
                     href="/article"
                     className="rounded-md bg-purple-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-purple-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 transition-all duration-500 ease-in-out"
                   >
-                    Start Reading
+                    Read Article
                   </Link>
                   <Link
                     href="/posts"
